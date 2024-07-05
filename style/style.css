@@ -1,0 +1,884 @@
+nav{
+    background-color: white;
+} 
+
+.navbar ul li a{
+    color: black;
+    font-size: 30px;
+    margin-right: 30px;
+}
+#banner .carousel-caption{
+    margin-bottom: 80px;
+}
+#banner .carousel-caption pre{
+    margin-right: 0% ; 
+    font-family: calibri; 
+    font-size: 20px; 
+    overflow: hidden;
+    text-align: start;
+    justify-content: start;
+}
+#banner .carousel-inner .carousel-item img{
+    width: 100%;
+    height: 600px;
+}
+#banner .carousel-inner .carousel-item .carousel-caption{
+    left: 0%;
+    right: 0%;
+}
+ /* offer style starts */
+ #offer h1{
+    opacity: 0.1; 
+    font-size: 120px;
+ }
+ #offer h2{
+    position: absolute; 
+    left: 38%; 
+    top: 40%; 
+    font-size: 60px; 
+    font-weight: 50px;
+ }
+ #offer .text-center{
+    position: relative;
+ }
+#offer .row .card{
+    background-color: rgb(246, 105, 54);
+    margin: 15px;
+    color: white;
+}
+#offer .row .card .card-img a i{
+    color: white;
+    font-size: 80px;
+    padding: 20px;
+}
+#offer .row .card .card-img a {
+    color: white;
+}
+#offer .row .card{
+    border: none;
+}
+#offer .row .card .card-body{
+    font-size: 20px;
+    padding: 40px 5px;
+}
+#offer .row #card1{
+    border: 4px solid rgb(231, 229, 229);
+}
+#offer .row #card2{
+    border: 4px solid rgb(231, 229, 229);
+}
+#offer .row #card{
+    background-color: rgb(230, 228, 228);
+    color: black;
+}
+#offer .row #card .card-img a i{
+    color: black;
+    font-size: 80px;
+    padding: 20px;
+}
+#offer .row #card1 .card-img a i{
+    color: black;
+}
+#offer .row #card2{
+    background-color: white;
+    color: black;
+}
+#offer .row #card2 .card-img a i{
+    color: black;
+}
+#offer .row #card3{
+    background-color: rgb(35, 1, 67);
+}
+#offer .row #card4{
+    background-color: orange;
+}
+/* offer style ends */
+/* information style starts */
+#information{
+    padding-top: 60px;
+}
+#information .row button{
+    padding: 15px 30px;
+}
+/* information style ends */
+/* contact style starts */
+#contact{
+        background: url('../images/it9.jpg') no-repeat ;
+        background-size: 100% 100%;
+        color: white;
+
+}
+#contact .row button{
+    padding: 15px 30px;
+}
+/* contact style ends */
+#money .sphere1{
+    text-align: center;
+     width: 240px; 
+     border-radius: 100px; 
+     padding: 30px; 
+     background-image: url('../images/it6.jpg'); 
+     color: white;
+}
+#money .sphere1 i{
+    font-size: 50px;
+}
+#money .sphere2{
+    text-align: center; 
+    width: 240px; 
+    border-radius: 100px;  
+    padding: 30px; 
+    background-image: url('../images/it7.jpg'); 
+    color: black;
+}
+#money .sphere2 i{
+    font-size: 50px;
+}
+#money .sphere3{
+    text-align: center; 
+    width: 240px; 
+    border-radius: 100px; 
+    padding: 30px; 
+    background-color: orange;
+}
+#money .sphere3 i{
+    font-size: 50px;
+}
+#money .sphere4{
+    text-align: center; 
+    width: 380px; 
+    border-radius: 100px; 
+    padding: 40px; 
+    background-color: black; 
+    color: white;
+}
+#money .sphere4 i{
+    font-size: 50px;
+}
+#money .sphere5{
+    text-align: center; 
+    width: 380px; 
+    border-radius: 100px; 
+    padding: 40px; 
+    background-image: url('../images/it10.jpg'); 
+    color: white;
+}
+#money .sphere5 i{
+    font-size: 50px;
+}
+#people .container .row #card1{
+    padding: 30px; 
+    background-color: orange; 
+    color: white; 
+    border: none;
+}
+#people .container .row #card1 .card-body{
+    font-size: 20px;
+}
+#people .container .row #card2{
+    padding: 30px;  
+    background-color: rgb(208, 205, 205); 
+    border: none;
+}
+#people .container .row #card2 .card-body{
+    font-size: 20px;
+}
+#people1{
+    margin-bottom: 150px;
+}
+#people1 .container .row #card3{
+    padding: 30px;
+}
+#people1 .container .row #card3 .card-body{
+    font-size: 20px;
+}
+#people1 .container .row #card4{
+    padding: 30px; 
+    background-color: rgb(33, 4, 60); 
+    color: white; 
+    border: none;
+}
+#people1 .container .row #card4 .card-body{
+    font-size: 20px;
+}
+/* footer style starts */
+#footer{
+    background: url('../images/it12.jpg') no-repeat ;
+    background-size: 100% 100%;
+    color: white;
+    padding-bottom: 30px;
+}
+#footer input {
+    border: none;
+    background: no-repeat;
+    border-bottom: 2px solid white;
+}
+#footer ::-webkit-input-placeholder{
+    color: white;
+}
+.rounded-0 {
+    border-radius: 0 !important;
+}
+
+#footer textarea{
+    border: none;
+    background: no-repeat;
+    border-bottom: 1px solid white;
+}
+#footer button{
+    background-color: orange;
+    color: white;
+    border-radius: 100px;
+}
+#footer i{
+    color: orange;
+    padding-left: 80px;
+}
+
+#copyrights .rights{
+    background-color: black;
+    color: rgb(118, 116, 116);
+    padding: 5px;
+}
+#footer .rights{
+    background-color: bisque;
+}
+#copyrights .rights .row i{
+    padding: 5px;
+    color: rgb(115, 113, 113);
+    padding-left: 10px;
+} 
+#foot{
+    position: relative;
+    top: 20%;
+}
+#foot .row #btn4 button{
+    padding: 25px 50px;
+    border-radius: 100px; 
+    background-color: rgb(38, 148, 222);
+}
+
+#foot .row #btn5 button{
+    padding: 25px 40px; 
+    border-radius: 100px; 
+    background-color: rgb(38, 148, 222);
+}
+#foot .row #btn6 button{
+    padding: 25px 15px;
+    border-radius: 100px; 
+    background-color: rgb(38, 148, 222);
+}
+.footer-hed {
+    position: absolute !important;
+    top: 602%;
+    width: 100%;
+}
+.icons a {
+    border: none;
+    padding: 18px 50px;
+    border-radius: 50px;
+    text-decoration: none;
+    background-color: rgb(12, 160, 223);
+    color: white;
+    font-weight: 700;
+}
+.icons {
+    text-align: center;
+}
+.footer-hed .row .col-md-3{
+    margin-bottom: 10px;
+}
+#footer .container h1{
+    font-size: 50px;
+}
+.footer-hed .row .col-md-3 #icon1 a{
+    padding: 25px 50px;
+}
+.footer-hed .row #icon2 a{
+    padding: 25px 40px;
+}
+.footer-hed .row #icon3 a{
+    padding: 25px 15px;
+}
+#footer .row #foot1 {
+    text-align: left;
+}
+#footer .row #foot2 {
+    text-align: left;
+}
+#footer .row #foot3 {
+    text-align: left;
+}
+
+/* footer style ends */
+
+
+
+
+
+
+
+
+
+
+
+
+#banner1 {
+    position: relative;
+    top: 90%
+}
+#banner{
+    position: relative;
+ 
+}
+.botton {
+    position: absolute;
+    margin-top: -32px;
+    margin-left: 125px;
+    
+}
+#banner1 .row #btn1 button{
+    padding: 20px 15px; 
+    border-radius: 100px;
+}
+#banner1 .row #btn2 button{
+    padding: 20px 40px; 
+    border-radius: 100px;
+}
+
+#banner1 .row #btn3 button{
+    padding: 20px 50px; 
+    border-radius: 100px;
+}
+#banner1 button{
+    background-color: blue;
+    padding: 20px 5px; 
+    border-radius: 100px;
+}
+.botton button{
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    text-align: center;
+}
+/* media queries section start */
+/* @media (max-width:2562px){
+    #banner .carousel-inner .carousel-caption h3{
+        font-size: 140px;
+    }
+    #banner .carousel-inner .carousel-item img{
+        width: 100%;
+        height: 1000px !important;
+    }
+    #banner .carousel-caption pre{ 
+        font-size: 35px; 
+        width: 100%;
+        margin-bottom: 20px;
+    }
+ } */
+@media (max-width:1440px){
+    .footer-hed {
+        position: absolute !important;
+        top: 530% !important;
+        width: 100% !important;
+    }
+        .display-2 {
+            font-size: 4.5rem !important;
+        }
+        #banner .carousel-inner .carousel-item img{
+            width: 100%;
+            height: 600px !important;
+        }
+        #banner .carousel-inner .carousel-item .carousel-caption{
+        left: 0% !important;
+        right: 0% !important;
+    }
+    #banner .carousel-caption pre{
+        margin-right: 0% ; 
+        font-family: calibri; 
+        font-size: 20px !important; 
+        overflow: hidden;
+    }
+    #banner1 .row #btn1 button{
+        padding: 20px 15px !important; 
+        border-radius: 100px !important;
+        font-size: 20px !important;
+    }
+    #banner1 .row #btn2 button{
+        padding: 20px 40px !important; 
+        border-radius: 100px !important;
+    }
+    
+    #banner1 .row #btn3 button{
+        padding: 20px 50px !important; 
+        border-radius: 100px !important;
+    }
+    .botton {
+        position: absolute;
+        margin-top: -32px !important;
+        margin-left: 125px !important;
+        
+    }
+    #offer{
+        padding-top: 0px !important;
+    }
+}
+@media (max-width:1024px){
+    .botton {
+        position: absolute;
+        margin-top: -32px !important;
+        margin-left: 60px !important;
+    } 
+    #banner .carousel-caption pre{
+        font-size: 15px !important; 
+        width: 100% !important;
+        right: 15% !important;
+    }
+    #banner .carousel-inner .carousel-item .carousel-caption{
+        left: 0%;
+        right: 0%;
+
+    }
+    .display-2 {
+        font-size: 4.5rem !important;
+    }
+    #banner .carousel-inner .carousel-item img{
+        width: 100%;
+        height: 600px !important;
+    }
+    .footer-hed {
+        position: absolute;
+        top: 583% !important;
+        width: 100%;
+    }
+    #money .sphere1{
+         width: 160px !important; 
+         border-radius: 60px; 
+         padding: 25px; 
+    }
+    #money .sphere2{ 
+        width: 160px; 
+        border-radius: 60px;  
+        padding: 25px; 
+        
+    }
+    #money .sphere3{ 
+        width: 160px; 
+        border-radius: 60px; 
+        padding: 25px; 
+    }
+    #money .sphere4{ 
+        width: 270px; 
+        border-radius: 100px; 
+        padding: 40px; 
+    }
+    #money .sphere5{
+        text-align: center; 
+        width: 270px; 
+        border-radius: 100px; 
+        padding: 40px; 
+    }
+    
+    #offer .row #card1 .card-body{
+        padding: 40px 0px;
+    }
+    #offer .row #card2 .card-body{
+        padding: 40px 0px;
+    }
+    #offer h2{
+        position: absolute; 
+        left: 32%; 
+        top: 40%; 
+        
+     }
+     #footer i {
+        color: orange;
+        padding-left: 53px !important;
+    }
+}
+@media (max-width:768px){
+    #banner .carousel-inner .carousel-item .carousel-caption{
+        left: 0%;
+        right: 5%;
+    }
+    .display-2{
+        font-size: 3.5rem !important;
+    }
+    .botton {
+        position: absolute;
+        margin-top: -32px;
+        margin-left: 16px !important;
+    } 
+    .navbar ul li a{
+        color: black;
+        font-size: 20px !important;
+        margin-right: 30px !important;
+    }
+    #banner .carousel-caption pre{
+        margin-right: 500px; 
+        margin-left: 0;
+        font-family: calibri; 
+        font-size: 10px !important; 
+        width: 90% !important;
+    }
+    #banner .carousel-caption{
+        margin-bottom: 80px;
+    }
+    #offer h1{
+        opacity: 0.1; 
+        font-size: 100px !important;
+     }
+     #offer h2{
+        position: absolute; 
+        left: 32% !important; 
+        top: 40%;
+        font-size: 50px !important;  
+    }
+    .footer-hed .row .col-md-3 #icon1 a{
+        padding: 15px 30px !important;
+    }
+    .footer-hed .row #icon2 a{
+        padding: 15px 20px !important;
+    }
+    .footer-hed .row #icon3 a{
+        padding: 15px 5px !important;
+    }
+    #money .sphere1{
+        width: 110px !important; 
+        border-radius: 40px !important; 
+        padding: 10px !important; 
+   }
+   #money .sphere2{ 
+       width: 110px !important; 
+       border-radius: 40px !important;  
+       padding: 10px !important; 
+    }
+   #money .sphere3{ 
+       width: 110px !important; 
+       border-radius: 40px !important; 
+       padding: 10px !important; 
+   }
+   #money .sphere4{ 
+       width: 190px !important; 
+       border-radius: 100px !important; 
+       padding: 20px !important; 
+   }
+   #money .sphere5{
+       width: 190px !important; 
+       border-radius: 100px !important; 
+       padding: 20px !important; 
+   }
+   #money .class .container .row .col-md-4 p{
+    font-size: 27px !important;
+   }
+    #footer .row #foot3 i{
+        padding-left: 40px !important;
+        margin-bottom: 50px;
+    }
+    #footer .row #foot2 i{
+        padding-left: 40px !important;
+    }
+    #footer .row #foot1 i{
+        padding-left: 40px !important;
+    }
+    #footer .row #foot1 h4{
+        font-size: 10px;
+    }
+    #footer .row i{
+        margin-top: 10px;
+    }
+    #footer h3,p{
+        font-size: 10px;
+    }
+    .footer-hed {
+        position: absolute !important;
+        top: 488% !important;
+        width: 100%;
+    }
+    #people .container .row #card1{
+        padding: 15px;
+    }
+    #people .container .row #card2{
+        padding: 15px; 
+    }
+    #people1 .container .row #card3{
+        padding: 15px; 
+    }
+    #people1 .container .row #card4{
+        padding: 15px;
+    }
+    #offer .row h3{
+        font-size: 15px;
+    }
+    #copyrights .rights .row i{
+        padding: 5px;
+        color: rgb(115, 113, 113);
+        padding-left: 0px;
+    } 
+}
+@media (max-width:576px){
+    #banner .carousel-inner .carousel-caption h3{
+        font-size: 35px !important;
+    }
+    .botton {
+        position: absolute;
+        margin-top: -32px !important;
+        margin-left: 180px !important;
+    }  
+    #banner .carousel-inner .carousel-item img{
+        height: 500px !important;
+    }
+    #banner .carousel-caption pre{ 
+        font-size: 7px !important; 
+        width: 100% !important;
+    }
+    #banner1 .botton {
+        position: relative;
+    }
+    #banner{
+        position: relative;
+    }
+    #banner1 button{
+        margin-bottom: 10px;
+    }
+    .text-center h2{
+        position: absolute;
+        left: 26% !important;
+        top: 36% !important;
+        font-size: 46px !important;
+        font-weight: 50px;
+    }
+    .footer-hed {
+        position: relative !important;
+       
+    }
+    #footer {
+        position: relative;
+        margin-top: -45px !important;
+    }
+    .icons {
+        text-align: center;
+        /* position: absolute; */
+        margin-bottom: 46px !important;
+    }
+    .icons {
+        text-align: center;
+        position: relative !important;
+    }
+    #banner .carousel-caption pre{
+        margin-right: 500px; 
+        margin-left: 0;
+        font-family: calibri; 
+        font-size: 8px !important; 
+        width: 100%;
+        overflow: hidden;
+    }
+    #banner .carousel-inner .carousel-item img{
+        width: 100%;
+        height: 450px;
+    }
+    #people1{
+        margin-bottom: 20px;
+    }
+    .botton {
+        position: absolute;
+        margin-top: -32px !important;
+        margin-left: 180px;
+    } 
+    #money .sphere1{
+        width: 240px !important; 
+        border-radius: 100px !important; 
+        padding: 30px !important; 
+   }
+   #money .sphere2{ 
+       width: 240px !important; 
+       border-radius: 100px !important;  
+       padding: 30px !important; 
+       
+   }
+   #money .sphere3{ 
+       width: 240px !important; 
+       border-radius: 100px !important; 
+       padding: 30px !important; 
+   }
+   #money .sphere4{ 
+       width: 380px !important; 
+       border-radius: 100px !important; 
+       padding: 20px !important; 
+   }
+   #money .sphere5{ 
+       width: 380px !important; 
+       border-radius: 100px !important; 
+       padding: 20px !important; 
+   }
+   #money .class .container .row .col-md-4 p{
+    font-size: 27px;
+   }
+}
+@media (max-width:426px){
+    #banner .carousel-inner .carousel-item img{
+        height: 500px !important;
+    }
+    #banner .carousel-inner .carousel-caption h3{
+        font-size: 30px !important;
+    }
+    .botton {
+        position: absolute;
+        margin-top: -32px !important;
+        margin-left: 100px !important;
+    }  
+    #banner .carousel-caption pre{ 
+        font-size: 6px !important; 
+        width: 100% !important;
+    }
+    #money .sphere1{
+        width: 240px !important; 
+        border-radius: 100px !important; 
+        padding: 30px !important; 
+   }
+   #money .sphere2{ 
+       width: 240px !important; 
+       border-radius: 100px !important;  
+       padding: 30px !important; 
+       
+   }
+   #money .sphere3{ 
+       width: 240px !important; 
+       border-radius: 100px !important; 
+       padding: 30px !important; 
+   }
+   #money .sphere4{ 
+    width: 380px !important; 
+    border-radius: 100px !important; 
+    padding: 20px !important; 
+    }
+    #money .sphere5{
+    text-align: center; 
+    width: 380px !important; 
+    border-radius: 100px !important; 
+    padding: 20px !important; 
+    }
+    #people1 .row .card{
+        margin: 0;
+    }
+    #people1{
+        margin-bottom: 20px;
+    }
+    #footer .row #foot3 i {
+        padding-left: 40px !important;
+        margin-bottom: 0px !important;
+    }
+    #offer h1{
+        opacity: 0.1; 
+        font-size: 80px !important;
+     }
+     #offer h2{
+        position: absolute; 
+        left: 20% !important; 
+        top: 40%; 
+        font-size: 45px !important; 
+        font-weight: 50px;
+     }
+}
+@media (max-width:376px){
+    #banner .carousel-caption pre{ 
+        font-size: 5px !important; 
+    }
+    #banner .carousel-inner .carousel-caption h3{
+        font-size: 30px !important;
+    }
+    #banner .carousel-inner .carousel-item img{
+        width: 100%;
+        height: 400px !important;
+    }
+    #offer h2{
+        left: 16% !important;  
+        font-size: 45px !important; 
+     }
+     .botton {
+        position: absolute;
+        margin-top: -32px;
+        margin-left: 80px !important;
+    }
+    #copyrights .rights .row{
+        font-size: 13px !important;
+    }
+}
+@media (max-width:320px){
+    #banner .carousel-caption pre{ 
+        font-size: 4px !important; 
+    }
+    #copyrights .rights .row{
+        font-size: 12px !important;
+    }
+    .botton {
+        margin-left: 55px !important;
+    }
+    #offer h2{
+        left: 16% !important;  
+        font-size: 40px !important; 
+     }
+     #offer h1{
+        opacity: 0.1; 
+        font-size: 60px !important;
+     }
+     #banner .carousel-inner .carousel-caption h3{
+        font-size: 25px !important;
+    }
+}
+@media (min-width:2560px){
+    #banner .carousel-inner .carousel-caption h3{
+        font-size: 140px;
+    }
+     #banner .carousel-inner .carousel-item img{
+        width: 100%;
+        height: 1000px;
+    }
+    #banner .carousel-caption pre{ 
+        font-size: 35px; 
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    #banner1 .row #btn1 button{
+        padding: 50px 15px; 
+        border-radius: 100px;
+        font-size: 30px;
+    }
+    #banner1 .row #btn2 button{
+        padding: 50px 55px; 
+        border-radius: 100px;
+        font-size: 30px;
+    }
+    
+    #banner1 .row #btn3 button{
+        padding: 50px 70px; 
+        border-radius: 100px;
+        font-size: 30px;
+    }
+    .botton {
+        position: absolute;
+        margin-top: -70px;
+        margin-left: 45px;
+    } 
+    #offer{
+        padding-top: 150px;
+    }
+    #offer h2{
+        left: 38%;  
+        font-size: 100px; 
+     }
+     #offer h1{
+        opacity: 0.1; 
+        font-size: 200px;
+     }
+     .footer-hed {
+        position: absolute !important;
+        top: 610% !important;
+        width: 100%;
+    }
+     
+   
+    
+ }
+/* media queries section end */
+
